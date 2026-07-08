@@ -1,0 +1,10 @@
+SET
+           title            | total_borrowings | borrowing_rank 
+----------------------------+------------------+----------------
+ Sastra Nusantara Volume 65 |              169 |              1
+ Strategi Bisnis Volume 20  |              132 |              2
+ Strategi Bisnis Volume 19  |              130 |              3
+ Teknologi Data Volume 09   |              126 |              4
+ Teknologi Data Volume 10   |              117 |              5
+(5 rows)
+
