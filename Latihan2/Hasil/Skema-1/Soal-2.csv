@@ -1,0 +1,6 @@
+SET
+ branch_id | total_members | active_members | active_percentage 
+-----------+---------------+----------------+-------------------
+         8 |            90 |             84 |             93.33
+(1 row)
+
