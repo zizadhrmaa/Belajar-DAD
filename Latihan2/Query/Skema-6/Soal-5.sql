@@ -1,0 +1,1 @@
+SET search_path TO perbankan_digital_multicabang, public;

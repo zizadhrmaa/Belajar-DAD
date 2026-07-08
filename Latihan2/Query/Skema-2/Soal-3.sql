@@ -1,0 +1,1 @@
+SET search_path TO ecommerce_multigudang, public;

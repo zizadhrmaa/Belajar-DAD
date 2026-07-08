@@ -1,0 +1,1 @@
+SET search_path TO manufaktur_supply_chain, public;

@@ -1,0 +1,1 @@
+SET search_path TO rumah_sakit_multicabang, public;

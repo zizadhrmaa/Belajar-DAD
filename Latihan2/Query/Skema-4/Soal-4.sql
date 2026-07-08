@@ -1,0 +1,1 @@
+SET search_path TO akademik_perguruan_tinggi, public;
